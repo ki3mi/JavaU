@@ -17,7 +17,7 @@ public class EmpleadoMain {
         Empleado emp = new Empleado();
         
         String name = "Juan";
-        String LastName = "Martimez";
+        String LastName = "Martinez";
         int Age = 12;
         
         emp.Register(name, LastName, Age);
