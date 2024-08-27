@@ -27,6 +27,6 @@ public class BoletaVenta {
    }
    public void Mostrar()
    {       
-       System.out.println("Monto Total: " + this.MontoTotal);
+       System.out.println("Monto Total: S/." + this.MontoTotal);
    }
 }
